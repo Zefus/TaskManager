@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29411.108
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager", "TaskManager\TaskManager.csproj", "{DD8E27F2-C94F-4A0B-8CF7-6EDA45A4DAC9}"
 EndProject
@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.Entities", "Tas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.DataBase", "TaskManager.DataBase\TaskManager.DataBase.csproj", "{39A75277-CE95-4B5D-A06C-712E62D16C25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.DataAccess", "TaskManager.DataAccess\TaskManager.DataAccess.csproj", "{9A253ACF-A552-42C7-A666-F65D21B3201E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.DataAccess", "TaskManager.DataAccess\TaskManager.DataAccess.csproj", "{9A253ACF-A552-42C7-A666-F65D21B3201E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.ViewModel", "TaskManager.ViewModel\TaskManager.ViewModel.csproj", "{50A231DB-E03D-4689-BAF5-4D68B10A8098}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.ViewModel", "TaskManager.ViewModel\TaskManager.ViewModel.csproj", "{50A231DB-E03D-4689-BAF5-4D68B10A8098}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager.DataAccess.Implementations", "TaskManager.DataAccess.Implementations\TaskManager.DataAccess.Implementations.csproj", "{BCF70D8D-365D-4234-932B-91170EDA86E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskManager.DataAccess.Implementations", "TaskManager.DataAccess.Implementations\TaskManager.DataAccess.Implementations.csproj", "{BCF70D8D-365D-4234-932B-91170EDA86E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
